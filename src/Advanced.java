@@ -6,7 +6,7 @@
  *
  * Example
  * - Input: [12, 11, 13, 9, 12, 8, 14, 13, 15]
- * - Output: 10 (buy on fourth day, sell on fifth day, buy on sixth day, sell on nineth day)
+ * - Output: 10 (buy on fourth day, sell on fifth day, buy on sixth day, sell on ninth day)
  *
  */
 public class Advanced {
