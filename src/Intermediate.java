@@ -8,7 +8,7 @@
  * Example
  * - Input : 8
  * - Output : 1113213211, an 8th entry of the array.
- *              [1, 11, 1211, 111221, 312211, 13112221, 1113213211]
+ *              [1, 11, 21, 1211, 111221, 312211, 13112221, 1113213211]
  */
 public class Intermediate {
 
